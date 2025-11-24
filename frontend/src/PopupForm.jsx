@@ -87,7 +87,7 @@ const PopupForm = ({ show: externalShow, onClose: externalOnClose }) => {
     setIsSubmitting(true);
 
     try {
-      const res = await axios.post("http://localhost:5000/home/send-email", {
+      const res = await axios.post("https://api.get-details.com/home/send-email", {
         name: formData.name,
         email: formData.email,
         mobile: formData.mobile.replace(/\D/g, ""),
