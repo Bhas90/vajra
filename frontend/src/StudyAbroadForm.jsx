@@ -1,5 +1,5 @@
 import React from "react";
-import logo1 from "./assets/vajra-banner.png";
+import logo1 from "./assets/vajra_banner.png";
 import { MapPin } from "lucide-react";
 
 const StudyAbroadForm = () => {
