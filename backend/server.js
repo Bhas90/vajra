@@ -50,7 +50,7 @@ const sendAutoReply = async (userEmail, userName) => {
           <p>Thank you for reaching out to <strong>Vajra Westcity</strong>!</p>
           <p>We’ll get in touch with you shortly to assist you further.</p>
           <hr style="border:none; border-top:1px solid #ddd; margin:20px 0;" />
-          <p>If you have any questions, call us at <a href="tel:+919392925831" style="color:#047bc5;">+91-9392925831</a>.</p>
+          <p>If you have any questions, call us at <a href="tel:+918977516130" style="color:#047bc5;">+91-8977516130</a>.</p>
         </div>
         <div style="background-color:#f0f0f0; padding:15px 20px; text-align:center; color:#666;">
           <p style="margin:0; font-style:italic;">Warm regards,<br/>Team Vajra Westcity</p>
