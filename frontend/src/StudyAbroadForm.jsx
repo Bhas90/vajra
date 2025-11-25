@@ -43,7 +43,7 @@ const StudyAbroadForm = () => {
           <div className="mt-4 flex justify-center">
             <div className="text-green-600 px-4 py-2 shadow-sm text-sm font-semibold">
               <a
-              href="tel:+919392925831"
+              href="tel:+918977516130"
               className="blinking-button text-white px-8 py-3 rounded-full flex items-center gap-3 shadow-md transition-all duration-300"
               style={{
                 backgroundColor: '#00b4e6'
@@ -97,7 +97,7 @@ const StudyAbroadForm = () => {
           <div className="mt-4">
             <div className="text-green-800 px-4 py-2 inline-block font-semibold text-sm">
               <a
-              href="tel:+919392925831"
+              href="tel:+918977516130"
               className="blinking-button text-white px-8 py-3 rounded-full flex items-center gap-3 shadow-md transition-all duration-300 bg-gradient-to-r from-[#002954] to-[#00b4e6] hover:opacity-90"
             >
               Starting Price: ₹1.03 Cr* Onwards
