@@ -1,5 +1,5 @@
 import React from "react";
-import pLogo from "./assets/vajra-banner.png";
+import pLogo from "./assets/vajra_banner.png";
 
 const PrivacyPolicy = () => {
   return (
